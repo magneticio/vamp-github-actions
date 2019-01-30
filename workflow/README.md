@@ -14,6 +14,7 @@ The following arguments are to be proved:
 There is one required Secrets to be set:
 
 * `VAMP_TOKEN` - this is the token used to log in to Vamp.
+* `VAMP_NAMESPACE` - this is the namespace used to create the workflow in Vamp.
 
 As alternative you can run the Vamp Login action prior to this action. This removes the need to set the `VAMP_TOKEN` secret.
 
