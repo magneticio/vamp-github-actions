@@ -1,5 +1,7 @@
 # Vamp GitHub Actions
 
+[![GitHubActions](https://img.shields.io/badge/listed%20on-GitHubActions-blue.svg)](https://github-actions.netlify.com/vamp)
+
 These official Vamp GitHub Actions allow you to run Vamp CLI commands within you GitHub actions workflow.
 
 ## Getting Started
